@@ -1,0 +1,70 @@
+.navbar {
+  background-color: #2874f0 !important;
+  padding: 0px;
+}
+
+.flipkart {
+  font-size: 23px;
+  color: #ffffff;
+  margin-bottom: 0px !important;
+}
+.explore {
+  font-size: 12px !important;
+  margin: auto;
+}
+.add-icon {
+  font-size: 14px !important;
+}
+.start {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.end-items-space {
+  margin-right: 23px !important;
+}
+.header-third {
+  font-weight: 600;
+  color: #ffffff !important;
+}
+.header-third:hover {
+  color: #ffffff !important;
+}
+.header-first {
+  display: flex !important;
+  flex-direction: column;
+
+  background-color: #2874f0;
+  border: none !important;
+  box-shadow: none !important;
+  font-size: 13px !important;
+}
+.header-first:hover,
+.header-first:focus {
+  box-shadow: none !important;
+  border: none !important;
+}
+.header-second {
+  background-color: #ffffff !important;
+  border: none !important;
+  border-radius: 0px;
+  height: 35px;
+  font-size: small;
+}
+.searchbar {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start !important;
+  box-shadow: rgb(15, 15, 15) !important;
+  margin-left: -30px !important;
+  width: 550px;
+  margin: auto;
+}
+.search-icon {
+  margin-left: -1px !important;
+  height: 35px;
+  border-radius: 0px;
+  margin-bottom: 1px !important;
+  border: none !important;
+  background-color: #ffffff !important;
+}
